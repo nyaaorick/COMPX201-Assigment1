@@ -1,3 +1,6 @@
+
+// This is a test class for the StrLinkedList class
+// It contains a main method to test the functionality of the linked list
 public class test {
     public static void main(String[] args) {
         // Create a new linked list

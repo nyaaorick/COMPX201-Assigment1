@@ -2,7 +2,6 @@ public class StrLinkedList {
     private Node head;  // The starting point of the list
     // Node class to represent each element in the list
 
-
     //Define an inner class called Node for nodes in your StrLinkedList. It
     //should have the following:
     private class Node {
@@ -30,8 +29,6 @@ public class StrLinkedList {
     public boolean isEmpty() {
         return head == null;  // If head is null, the list is empty
     }
-
-
 
     // Get the length of the list (number of nodes)
     public int getLength() {
